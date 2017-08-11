@@ -66,8 +66,3 @@ Credibility scale
 2. Marginally credible
 3. Medium credible
 4. Completely credible
-
-
-License
-=======
-Insert license information here
