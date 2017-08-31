@@ -6,6 +6,8 @@ _Evaluation Measures for Relevance and Credibility in Ranked Lists_
 Christina Lioma, Jakob Grue Simonsen, and Birger Larsen (2017)  
 ACM SIGIR International Conference on the Theory of Information Retrieval, _In press_.
 
+[download from arXiv](https://arxiv.org/abs/1708.07157)
+
 
 The Data
 ========
