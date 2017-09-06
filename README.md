@@ -32,6 +32,8 @@ The file `urls` is a file that maps `url_id`'s to their corresponding plaintext 
 
 The Task
 ========
+The exact instructions given to the annotators are as follows:
+
 For each of the 10 queries listed below, please do the following:
 1. Submit the query to Google
 2. Click on each of the top 5 results for that query, read it, and assign separately:
