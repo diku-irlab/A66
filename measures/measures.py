@@ -73,10 +73,6 @@ def nlre(rankings, mu, nu):
     return 1.0 - (_lre / _clre)
 
 
-
-
-
-
 def gre(rankings, n, mu, nu):
     """ Global Rank Error (GRE) """
 
@@ -132,4 +128,3 @@ def ngre(rankings, mu, nu):
     _gre = gre(rankings, n, mu, nu)
     _cgre = cgre(n, mu, nu)
     return 1.0 - (_gre / _cgre)
-
