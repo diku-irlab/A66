@@ -2,6 +2,17 @@ from future import __division__
 from future import __print_function__
 import math
 
+""" Throughout this module, the parameter `rankings` is expected to be a list
+    of tuples, where the elements in each tuple follow the rank positions
+    listed in the article. That is to say:
+
+        elem    description
+        ------------------------------------------------------
+        1       rank position in the input ranks
+        2       rank position in the ideal relevance ranking
+        3       rank position in the ideal credibility ranking
+"""
+
 
 def monus(a, b):
     """ monus operator """
