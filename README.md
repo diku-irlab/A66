@@ -4,7 +4,7 @@ This dataset was developed at the department of Computer Science at the Universi
 
 _Evaluation Measures for Relevance and Credibility in Ranked Lists_  
 Christina Lioma, Jakob Grue Simonsen, and Birger Larsen (2017)  
-ACM SIGIR International Conference on the Theory of Information Retrieval, _In press_.
+ACM SIGIR International Conference on the Theory of Information Retrieval, pg. 91-98.
 
 [download from arXiv](https://arxiv.org/abs/1708.07157)
 
