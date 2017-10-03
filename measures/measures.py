@@ -1,4 +1,4 @@
-""" This module immplements the measures described in:
+""" This module implements the measures described in:
 
         Evaluation Measures for Relevance and Credibility in Ranked Lists
         Christina Lioma, Jakob Grue Simonsen, and Birger Larsen (2017)
